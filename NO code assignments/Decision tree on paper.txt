@@ -1,0 +1,20 @@
+Decision Tree on Paper
+Diagram (Clean Format)
+                    [Weather]
+                   /         \
+              [Sunny]       [Rainy]
+                /               \
+        [Temperature]         [Wind]
+        /    |     \         /      \
+     [Hot] [Mild] [Cool] [Strong] [Weak]
+       |      |      |       |        |
+     [No]   [Yes]  [Yes]   [No]    [Yes]
+
+Legend
+Yes → Play Outside
+No → Do Not Play
+Explanation
+
+This decision tree is used to decide whether to play outside based on different conditions.
+It starts with weather and then checks temperature or wind.
+Each decision leads to a final outcome of either playing or not playing.

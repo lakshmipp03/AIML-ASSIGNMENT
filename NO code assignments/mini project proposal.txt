@@ -1,0 +1,24 @@
+Assignment (19/03/2026)
+Mini Project Proposal
+Title
+
+Student Performance Predictor
+
+Problem
+
+Students struggle to track performance and improvement.
+
+Dataset
+Study hours
+Attendance
+Previous marks
+Algorithm
+
+Linear Regression (simple and effective)
+
+Expected Output
+Predicted marks
+Identify weak students
+Conclusion
+
+This project helps improve student performance using data.

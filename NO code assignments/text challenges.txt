@@ -1,0 +1,34 @@
+Assignment (20/03/2026)
+Text Challenges
+Messy Sentences (Examples)
+omg this movie is lit 😂
+u r gr8 bro
+I loooove this!!!
+wat r u doing??
+lol that was funny 😆
+pls send d file
+thx a lot!!!
+dis is awesome
+I canttt believe it
+omg soooo good
+ur the best
+hahaha 😂😂
+gud morning
+cya later
+idk what to do
+wowww amazing
+this sux
+brb in 5 mins
+im sooo tired
+okkk done
+Issues Identified
+Slang → omg, lol, brb
+Emojis → 😂 😆
+Typos → loooove, canttt
+Short forms → u, ur, pls
+Preprocessing Needed
+Convert to lowercase
+Remove emojis
+Expand slang (u → you)
+Correct spelling
+Remove extra letters

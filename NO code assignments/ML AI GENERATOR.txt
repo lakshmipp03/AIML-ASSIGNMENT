@@ -1,0 +1,50 @@
+*Assignment (02/03/2026)*
+
+*Assignment Name* : ML Idea Generator
+*Description* : Suggest ML problems in college, healthcare, shopping and describe input → output.
+
+ML Idea Generator
+Objective
+
+Suggest machine learning problems in different domains and describe input and output.
+
+1. College Domain
+
+Problem: Student Performance Prediction
+
+Input → Attendance, study hours, internal marks
+Output → Final exam score or pass/fail prediction
+
+This helps teachers identify students who may need extra support.
+
+2. Healthcare Domain
+
+Problem: Disease Prediction System
+
+Input → Symptoms, age, medical history
+Output → Predicted disease or risk level
+
+This helps in early diagnosis and better treatment planning.
+
+3. Shopping Domain
+
+Problem: Product Recommendation System
+
+Input → User search history, past purchases
+Output → Recommended products
+
+This improves customer experience and increases sales.
+
+4. Additional Idea
+
+Problem: Traffic Prediction
+
+Input → Time, location, historical traffic data
+Output → Traffic level (low, medium, high)
+
+This helps users choose better routes and save time.
+
+Why These Are Machine Learning Problems
+They use data to learn patterns
+They make predictions or recommendations
+Their performance improves with more data
