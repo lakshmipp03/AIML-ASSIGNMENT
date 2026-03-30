@@ -1,0 +1,24 @@
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+
+reviews = [
+    "I love this movie",
+    "This film was terrible",
+    "Amazing acting and story",
+    "Worst movie ever",
+    "Very good experience"
+]
+
+labels = [1, 0, 1, 0, 1]  # 1 = Positive, 0 = Negative
+
+vectorizer = CountVectorizer()
+X = vectorizer.fit_transform(reviews)
+
+model = MultinomialNB()
+model.fit(X, labels)
+
+test = ["I hate this movie"]
+test_vec = vectorizer.transform(test)
+
+prediction = model.predict(test_vec)
+print("Prediction:", "Positive" if prediction[0] == 1 else "Negative")
